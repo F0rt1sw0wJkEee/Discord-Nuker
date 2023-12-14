@@ -34,5 +34,3 @@ It's that simple to run! Just Enter the command `python nuke-bot.py` or `python3
 [Asjad](https://www.asjadowo.xyz/)
 
 [Support Server](https://discord.gg/gBkYbAMGy2)
-
-
